@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-rep = 30
+rep = 100
 start_time = (int(time.time())//700)*700
 # start_time = ~~~
 
